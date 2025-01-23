@@ -1,0 +1,17 @@
+body{background-color: rgb(223, 132, 99);}
+
+#deuxieme-element{ font-weight: bold;}
+
+ body p:first-of-type {font-style: italic;}
+
+.box-highlight{color:violet}
+
+.box{font-weight:rgb(146, 39, 39)}
+
+.container{font-weight: bolder;}
+
+.item-highlight{color:blue}
+
+[class^="a"]{color: yellow;}
+
+[class$="date"] {background-color:green;}
